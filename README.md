@@ -1,3 +1,6 @@
+### Statistics
+![Rule34](https://count.getloli.com/get/@abssduo?theme=rule34)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julie3Sigtuna)](https://github.com/anuraghazra/github-readme-stats)
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
@@ -54,14 +57,3 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 </div>
 </body>
-
-
-
-
-
-
-
-
-### Statistics
-[![Rule34](https://count.getloli.com/get/@abssduo?theme=rule34)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julie3Sigtuna)](https://github.com/anuraghazra/github-readme-stats)
