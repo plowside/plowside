@@ -25,8 +25,6 @@
 <br>
 <p><b>     Thanks fow reading this</b></p>
 </div>
-### Statistics
-[![Rule34](https://count.getloli.com/get/@abssduo?theme=rule34)
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
@@ -64,5 +62,6 @@ most used s-s-sociaw things >~< xoxox</p>
 
 
 
-
+### Statistics
+[![Rule34](https://count.getloli.com/get/@abssduo?theme=rule34)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julie3Sigtuna)](https://github.com/anuraghazra/github-readme-stats)
