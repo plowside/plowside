@@ -26,7 +26,7 @@
 <p><b>     Thanks fow reading this</b></p>
 </div>
 ### Statistics
-![Rule34](https://count.getloli.com/get/@abssduo?theme=rule34)
+[![Rule34](https://count.getloli.com/get/@abssduo?theme=rule34)
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
