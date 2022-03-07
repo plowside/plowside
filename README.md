@@ -11,7 +11,7 @@
 <li>
 <b>Name:</b> Anton</li>
 <li>
-<b>Loves:</b> you! and donuts and games maybe -///-
+<b>Loves:</b> donuts and games maybe
 </li>
 <li>
 <b>Gender:</b> he/his/Male
