@@ -13,7 +13,7 @@
 <li>
 <b>Name:</b> Anton</li>
 <li>
-<b>Loves:</b> Python
+<b>Loves:</b> Python and games
 </li>
 <li>
 <b>Gender:</b> he/his/Male/Python
