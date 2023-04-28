@@ -13,16 +13,16 @@
 <li>
 <b>Name:</b> Anton</li>
 <li>
-<b>Loves:</b> donuts and games maybe
+<b>Loves:</b> Python
 </li>
 <li>
-<b>Gender:</b> he/his/Male
+<b>Gender:</b> he/his/Male/Python
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Python
 </li>
 <li>
-<b>Working @:</b> Waifu | AbssDuo
+<b>Working:</b> Python
 </li>
 <br>
 <p><b>     Thanks fow reading this</b></p>
